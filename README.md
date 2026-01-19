@@ -31,8 +31,3 @@ Puedes consultar o descargar el archivo técnico original en el siguiente enlace
 | :---: | :---: | :---: |
 | ![Página 13](./Porschelink_pages-to-jpg-0013.jpg) | ![Página 14](./Porschelink_pages-to-jpg-0014.jpg) | ![Página 15](./Porschelink_pages-to-jpg-0015.jpg) |
 
----
-
-## 🛠️ Notas de Uso
-* Las imágenes están optimizadas para visualización rápida en la web.
-* Para una lectura detallada, se recomienda abrir el archivo **PDF** mencionado arriba.
