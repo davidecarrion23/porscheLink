@@ -13,7 +13,7 @@ Puedes consultar o descargar el archivo técnico original en el siguiente enlace
 
 | Página 01 | Página 02 | Página 03 |
 | :---: | :---: | :---: |
-| ![Página 1](./Porschelink_pages-to-jpg-0001.jpg) | ![Página 2](./Porschelink_pages-to-jpg-0002.jpg) | ![Página 3](./Porschelink_pages-to-jpg-0003.jpg) |
+| ![Página 1](./imagenesPdf/Porschelink_pages-to-jpg-0001.jpg) | ![Página 2](./Porschelink_pages-to-jpg-0002.jpg) | ![Página 3](./Porschelink_pages-to-jpg-0003.jpg) |
 
 | Página 04 | Página 05 | Página 06 |
 | :---: | :---: | :---: |
